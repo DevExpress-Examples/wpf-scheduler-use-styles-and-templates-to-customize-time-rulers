@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/SchedulerCustomizeTimeRulerExample/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/SchedulerCustomizeTimeRulerExample/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/SchedulerCustomizeTimeRulerExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/SchedulerCustomizeTimeRulerExample/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to customize TimeRuler using styles and templates
 
 
