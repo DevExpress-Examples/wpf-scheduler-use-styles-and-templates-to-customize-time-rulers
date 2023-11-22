@@ -30,4 +30,4 @@ The [DayViewBase.TimeRulerCellStyle](https://docs.devexpress.com/WPF/DevExpress
 
 ## More Examples
 
-* [WPF Scheduler - Add Multiple Time Rulers and Adjust Their Settings](https://github.com/DevExpress-Examples/how-to-add-multiple-time-rulers-to-the-scheduler-and-adjust-their-settings-t587066)
+* [WPF Scheduler - Generate Time Rulers From a View Model Collection](https://github.com/DevExpress-Examples/wpf-scheduler-generate-time-rulers-from-view-model-collection)
